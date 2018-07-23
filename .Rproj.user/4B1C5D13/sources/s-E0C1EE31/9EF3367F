@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532376550554.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9EF3367F",
+    "lastKnownWriteTime" : 1532376612,
+    "last_content_update" : 1532376612370,
+    "path" : "~/robert_kahne/mokp_website/data/features/newsletter.yaml",
+    "project_path" : "data/features/newsletter.yaml",
+    "properties" : {
+        "cursorPosition" : "2,21",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

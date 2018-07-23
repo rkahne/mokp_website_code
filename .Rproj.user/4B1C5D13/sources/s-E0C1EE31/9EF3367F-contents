@@ -1,0 +1,5 @@
+weight: 4
+name: "Newsletter"
+icon: "fa fa-envelope"
+description: "A weekly newsletter released on Fridays."
+url: "https://tinyletter.com/myoldkentuckynewsletter"

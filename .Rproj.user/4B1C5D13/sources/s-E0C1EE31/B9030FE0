@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532376521183.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B9030FE0",
+    "lastKnownWriteTime" : 1532376613,
+    "last_content_update" : 1532376613435,
+    "path" : "~/robert_kahne/mokp_website/data/features/archive.yaml",
+    "project_path" : "data/features/archive.yaml",
+    "properties" : {
+        "cursorPosition" : "2,20",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

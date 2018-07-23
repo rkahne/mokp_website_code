@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532376607531.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9FAEA4EA",
+    "lastKnownWriteTime" : 1532376610,
+    "last_content_update" : 1532376610800,
+    "path" : "~/robert_kahne/mokp_website/data/features/podcast.yaml",
+    "project_path" : "data/features/podcast.yaml",
+    "properties" : {
+        "cursorPosition" : "2,20",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
