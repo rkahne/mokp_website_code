@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on My Old Kentucky Podcast</title>
+    <link>/archive/</link>
+    <description>Recent content in Archives on My Old Kentucky Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016 - 2018, My Old Kentucky Podcast; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 27 Apr 2018 16:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/archive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ranking Ideology in the 2018 General Assembly</title>
+      <link>/archive/ranking-ideology/</link>
+      <pubDate>Fri, 27 Apr 2018 16:00:00 +0000</pubDate>
+      
+      <guid>/archive/ranking-ideology/</guid>
+      <description>Ranking Ideology in the 2018 General Assembly Robert Kahne
+Last year, I used W-Nominate scores to do an ideological rank ordering of the Kentucky . It was an interesting project. But, several folks reached out to me, worried that the scores lacked some context. After spending some time reflecting on that, I decided that those people were correct &amp;ndash; and this year, when I completed the same project, I added some extra information.</description>
+    </item>
+    
+  </channel>
+</rss>

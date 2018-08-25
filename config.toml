@@ -9,6 +9,7 @@ googleAnalytics = ""
 # Define the number of posts per page
 paginate = 10
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+relativeurls = true
 
 [menu]
 
@@ -50,7 +51,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [params]
-    viewMorePostLink = "/blog/"
+    viewMorePostLink = "/post/"
     author = "MOKP"
     defaultDescription = "Kentucky Government and Politics"
 
@@ -73,15 +74,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "myoldkentuckypodcast@gmail.com"
 
     about_us = "<p>Two Lifelong Kentuckians Discuss Politics And Government in the Commonwealth</p>"
     copyright = "Copyright (c) 2016 - 2018, My Old Kentucky Podcast; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
+    
+    favicon = "images/mokp.ico"
 
-    logo = "images/mokp_logo_tiny.png"
+    logo = "images/mokp_logo_small.png"
     address = """<p><strong>My Old Kentucky Podcast</strong>
         <br>900 S Shelby St
         <br>Louisville, KY 40203
@@ -89,7 +92,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       """
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:slug/"
+    post = "/post/:year/:month/:day/:slug/"
 
 # Enable or disable top bar with social icons
 [params.topbar]

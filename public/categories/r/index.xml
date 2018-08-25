@@ -6,6 +6,7 @@
     <description>Recent content in R on My Old Kentucky Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright (c) 2016 - 2018, My Old Kentucky Podcast; all rights reserved.</copyright>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />

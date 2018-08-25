@@ -2805,7 +2805,7 @@ fieldset[disabled] .btn-template-primary.active {
 /* navbar */
 .navbar {
   position: relative;
-  min-height: 62px;
+  min-height: 220px;
   margin-bottom: 0;
   border-bottom: 1px solid transparent;
 }
@@ -2961,6 +2961,9 @@ fieldset[disabled] .btn-template-primary.active {
   .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-nav .open .dropdown-menu > li > a:focus {
     background-image: none;
+  }
+  .visible-xs .visible-sm {
+    display: none !important;
   }
 }
 @media (min-width: 768px) {

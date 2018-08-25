@@ -11,10 +11,10 @@ Robert Kahne and Jazmin Smith began hosting My Old Kentucky Podcast in the fall 
 
 ## Hosts
 
-![Robert!](/images/robert.PNG){height="427px" width="246px"} 
+![Robert!](/images/robert.PNG)
 
 Robert Kahne is a graduate of the University of Kentucky's Martin School for Public Policy.  He works as a data scientist in Louisville, where he lives with his wife Kelsey, his dog Gertie, and his cat Cookie.  In addition to hosting My Old Kentucky Podcast, Robert serves on the board of Highlands Community Ministries, volunteers with the Civic Data Alliance, and attends Highland Baptist Church.
 
 ![Jazmin!](/images/jazmin.PNG) 
 
-Jazmin Smith is a public defender in the city of Louisville.  She holds a JD from the University of Kentucky Law School.  Jazmin originally hails from Bullitt County.  In addition to hosting My Old Kentucky Podcast, Jazmin ...
+Jazmin Smith is a born and raised Bullitt Countian. She holds a J.D. from the University of Kentucky College of Law and is now a public defender in Louisville. She is also a member of the Louisville Bar Association. When she’s not in Smoketown recording My Old Kentucky Podcast, you can find her at Yelp Elite events, Rooster’s, and the Louisville Free Public Library.
